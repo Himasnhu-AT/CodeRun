@@ -1,0 +1,41 @@
+Mittal has an alphanumeric string, , he needs find the frequency of each digit in the given string. Since he is busy flirting with juniors , help him to get the frequencies.
+
+# Input Format
+
+The first line contains a string, which is the given number.
+
+# Constraints
+
+Accepting code in C only .
+All the elements of string are made of english alphabets and digits(0-9).
+
+# Output Format
+
+Print ten space-separated integers in a single line denoting the frequency of each digit from to .
+
+# Sample Input 0
+
+a11472o5t6
+
+
+# Sample Output 0
+
+0 2 1 0 1 1 1 1 0 0 
+
+# Explanation 0
+
+In the given string:
+
+(1) occurs two times.
+and (2,4,5,6,7) occur one time each.
+The remaining digits and don't occur at all.
+
+# Sample Input 1
+lw4n88j12n1
+#Sample Output 1
+0 2 1 0 1 0 0 0 2 0 
+
+# Sample Input 2
+1v88886l256338ar0ekk
+# Sample Output 2
+1 1 1 2 0 1 2 0 5 0 
